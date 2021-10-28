@@ -14,7 +14,7 @@
             <PermittedMessageType>Text</PermittedMessageType>
             <SessionAttributes>
                 <transacted>false</transacted>
-                <acknowledgeMode>1</acknowledgeMode>
+                <acknowledgeMode>2</acknowledgeMode>
                 <maxSessions>1</maxSessions>
                 <destination>venkatesh.queue</destination>
             </SessionAttributes>
